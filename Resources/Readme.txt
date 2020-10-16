@@ -1,5 +1,15 @@
 Changelog
 --------------------------
+v2.3.1	2020/06/09
+	Update profile to DevExpress VCL 20.1.2.
+
+v2.3	2020/06/08
+	Delphi 10.4 supported.
+
+v2.2.3	2019/12/14
+	Update profile to DevExpress VCL 19.2.2.
+	Updated DevExpress version number detection method to be compatible with 19.2.2.
+
 v2.2.2	2019/07/26
 	Fix issue that the skin names not listed since v18.2.x.
 
